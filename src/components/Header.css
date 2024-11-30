@@ -1,0 +1,56 @@
+header {
+  text-align: center;
+  background-color: bisque;
+  display: flex;
+  justify-content: center;
+  height: 55px;
+  align-items: center;
+  
+}
+.img{
+  height: 42px;
+  width: 42px;
+  margin-right: 7px;
+}
+.journal-entry{
+  display: flex;
+}
+.karura-forest{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  margin-left: '12px';
+  
+}
+.karura-forest-container{
+  height: 50px;
+  width: 40px;
+  overflow: hidden;
+  border-radius: 8px;
+  flex-shrink: 0;
+  
+}
+.forest-img{
+  width: 200px;
+  height: 250px;
+  border-radius: 8px;
+}
+.k-forest{
+  margin-left: 12px;
+}
+.k-forest2{
+  margin-left: 12px;
+}
+.k-forest3{
+  margin-left: 12px;
+}
+.k-forest1{
+  margin-left: 5px;
+}
+.k-forest0{
+  margin-left: 12px;
+}
+.img-1{
+  width: 100px;
+  height: 100px;
+}
