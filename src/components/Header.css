@@ -28,6 +28,7 @@ header {
   overflow: hidden;
   border-radius: 8px;
   flex-shrink: 0;
+  margin-bottom: 50px;
   
 }
 .forest-img{
