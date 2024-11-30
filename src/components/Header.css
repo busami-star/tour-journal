@@ -15,14 +15,14 @@ header {
 .journal-entry{
   display: flex;
 }
-.karura-forest{
+.image-img1{
   height: 100%;
   width: 100%;
   object-fit: cover;
   margin-left: '12px';
   
 }
-.karura-forest-container{
+.image-img-container{
   height: 50px;
   width: 40px;
   overflow: hidden;
@@ -31,24 +31,24 @@ header {
   margin-bottom: 50px;
   
 }
-.forest-img{
+.image-img{
   width: 200px;
   height: 250px;
   border-radius: 8px;
 }
-.k-forest{
+.k-img{
   margin-left: 12px;
 }
-.k-forest2{
+.k-img2{
   margin-left: 12px;
 }
-.k-forest3{
+.k-img3{
   margin-left: 12px;
 }
-.k-forest1{
+.k-img1{
   margin-left: 5px;
 }
-.k-forest0{
+.k-img0{
   margin-left: 12px;
 }
 .img-1{
