@@ -9,9 +9,10 @@ function App() {
     const entryElements = data.map((entry) => {
         return (
             <Entry 
+            key= {entry.id}
             img = {entry.img}
             title={entry.title}
-            country={entry.country}
+            county={entry.county}
             googleMapsLink={entry.googleMapsLink}
             dates={entry.dates}
             text={entry.text}

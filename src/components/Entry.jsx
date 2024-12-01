@@ -14,7 +14,7 @@ function Entry(props) {
         </div>
         <span className='k-img0'>{props.title}</span>
         <a className='k-img1' href=" https://www.google.com/maps/@1.2833,36.8167,12z/data=!3m1!4b1.">view on google maps</a>
-        <h2 className='k-img'>{props.country}</h2>
+        <h2 className='k-img'>{props.county}</h2>
         <p className='k-img2'>{props.dates}</p>
         <p className='k-img3'>{props.text}</p>
       </div>
